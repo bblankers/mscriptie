@@ -1,4 +1,4 @@
-# msscriptie
+# mscriptie
 
 Contains files for my master's thesis about the  Readability project for Afrikaans
 
